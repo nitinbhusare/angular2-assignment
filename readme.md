@@ -1,4 +1,4 @@
-Following are the steps to run this project:
+# Following are the steps to run this project:
 
 1) Open a command prompt in the project's root directory (APM)
 
