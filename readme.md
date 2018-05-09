@@ -1,5 +1,5 @@
 # Following are the steps to run this project:
-From : Nitin
+From : 
 
 1) Open a command prompt in the project's root directory (APM)
 
